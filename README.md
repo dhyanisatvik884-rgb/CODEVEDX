@@ -1,6 +1,6 @@
-# 📊 CODEVEDX – Data Analytics Internship Projects
+# 📊 CODEVEDX – Data Analysis Internship Projects
 
-Welcome to my Data Analytics Internship repository. This repository contains five end-to-end projects completed as part of the CODEVEDX Data Analytics Internship Program. Each project builds upon the previous one, covering the complete data analysis workflow—from data cleaning to reporting and business insight generation.
+Welcome to my Data Analysis Internship repository. This repository contains five end-to-end projects completed as part of the CODEVEDX Data Analysis Internship Program. Each project builds upon the previous one, covering the complete data analysis workflow—from data cleaning to reporting and business insight generation.
 
 ---
 
